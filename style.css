@@ -94,14 +94,14 @@ main h1 {
     font-family: var(--android);
     color: var(--cor5);
     font-weight: normal;
-    font-size: 1.8em;
+    font-size: 1.6em;
 }
 
 main h2 {
     font-family: var(--android);
     color: var(--cor4);
     font-weight: normal;
-    font-size: 1.3em;
+    font-size: 1.1em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
 }
